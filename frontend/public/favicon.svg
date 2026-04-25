@@ -1,0 +1,8 @@
+<!--
+  网站图标
+  在浏览器标签页上显示的小图标
+  这里直接用一个 emoji 作为图标，简单方便
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <text y="80" font-size="80">🎯</text>
+</svg>
