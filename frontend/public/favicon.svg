@@ -1,0 +1,23 @@
+<!--
+  网站图标
+  在浏览器标签页上显示的小图标
+  这里直接用一个 emoji 作为图标，简单方便
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 鱼身 -->
+  <ellipse cx="45" cy="50" rx="28" ry="18" fill="#FF6B6B" />
+  <!-- 鱼尾 -->
+  <polygon points="17,50 0,28 0,72" fill="#FF8E8E" />
+  <!-- 眼睛 -->
+  <circle cx="58" cy="44" r="5" fill="white" />
+  <circle cx="60" cy="44" r="2.5" fill="#333" />
+  <!-- 微笑 -->
+  <path d="M55 54 Q60 60 65 54" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" />
+  <!-- 小腮红 -->
+  <circle cx="50" cy="52" r="4" fill="#FFB3B3" opacity="0.6" />
+  <!-- 鱼鳍 -->
+  <path d="M40 38 Q45 28 50 38" fill="#FF8E8E" />
+  <!-- 泡泡 -->
+  <circle cx="72" cy="38" r="3" fill="none" stroke="#87CEEB" stroke-width="1.5" />
+  <circle cx="78" cy="32" r="2" fill="none" stroke="#87CEEB" stroke-width="1" />
+</svg>

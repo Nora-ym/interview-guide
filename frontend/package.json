@@ -1,0 +1,34 @@
+{
+  "name": "interview-guide-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.13",
+    "framer-motion": "^11.15.0",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-big-calendar": "^1.19.4",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.1",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-big-calendar": "^1.16.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.5"
+  }
+}
